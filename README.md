@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+# Test Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Proyek ini berisikan website simple restaurant disertai beberapa penjelasan
 
-## Available Scripts
+## Versi React.js
+
+Proyek ini menggunakan React.js versi 18.2.0.
+
+## Versi Node.js
+
+Proyek ini menggunakan Node.js versi 14.17.5.
+
+## Memulai Proyek
+
+1. Clone repositori ini ke mesin Anda:
+
+   ```bash
+   git clone https://github.com/arusmiati/FrontendDevReactjs-AndiRusmiati.git
+
+Masuk ke direktori proyek:
+### `cd FrontendDevReactjs-AndiRusmiati`
+
+Install dependensi dengan menggunakan npm:
+
+### `npm install`
 
 In the project directory, you can run:
 
@@ -10,7 +30,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 

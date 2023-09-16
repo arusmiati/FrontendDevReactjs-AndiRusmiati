@@ -1,0 +1,13 @@
+.rating {
+    display: inline-block;
+    font-size: 15px;
+  }
+  
+  .empty-star {
+    color: #eeeded;
+  }
+  
+  .filled-star {
+    color: rgb(15, 15, 129); 
+  }
+  

@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+}
+
+.section{
+    width: 80%;
+    text-align: justify !important;
+    margin: auto;
+}
+
+.section .section-title{
+    font-weight: 600;
+}
+
+.section .price{
+    color: grey;
+}

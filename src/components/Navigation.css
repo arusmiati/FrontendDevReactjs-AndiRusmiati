@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-item{
+    display: flex;
+    flex: 1;
+    align-items: center;
+   
+}
+
+.nav-item select,
+.nav-item_input{
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid grey;
+    padding: 2px 4px;
+    margin: 0px 20px;
+}
+
+.prices{
+    width: 110px;
+}
+.category{
+    width: 150px;
+}
+.clear button{
+    background: none;
+    border: 1px solid grey;
+    padding: 5px 40px;
+    border-radius: 3px;
+    color: grey;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out,  transform 0.1s ease-in-out;
+}
+
+button:hover {
+    background-color: rgb(15, 15, 129);
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+button:active {
+    transform: scale(0.95); 
+  }

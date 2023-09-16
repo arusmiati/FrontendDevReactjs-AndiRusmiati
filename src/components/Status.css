@@ -1,0 +1,11 @@
+.green-dot{
+    color: rgb(0, 218, 145);
+}
+
+.red-dot{
+    color: red;
+}
+
+span {
+    font-size: 20px;
+}

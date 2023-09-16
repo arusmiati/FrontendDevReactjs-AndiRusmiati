@@ -1,0 +1,19 @@
+.footer {
+    color: grey;
+    padding: 20px;
+    display: flex;
+    margin-top: 10rem;
+ }
+
+  .footer-left{
+    width: 100px;
+    font-weight: 600;
+  }
+  .footer-item {
+    margin-bottom: 10px;
+  }
+  
+  .footer-item p {
+    margin: 0;
+  }
+  
